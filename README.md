@@ -132,10 +132,9 @@ I focus on building **complete systems**, not just models:
 
 ## 📫 Connect
 
-<p>
-  <a href="mailto:mohammedayan262005@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge" height="50">
-  </a>
+<a href="mailto:mohammedayan262005@gmail.com?subject=Regarding%20Your%20Portfolio&body=Hi%20Mohammed%2C%20I%20came%20across%20your%20work...">
+  <img src="https://img.shields.io/badge/Email__Me-D14836?style=for-the-badge" height="50">
+</a>
 
   <a href="https://www.linkedin.com/in/mohammedayan26">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge" height="50">
