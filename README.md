@@ -4,6 +4,7 @@
   <img src="https://img.shields.io/badge/AI%20%26%20ML-Engineer-blueviolet?style=for-the-badge" height="35">
   <img src="https://img.shields.io/badge/Robotics-Enthusiast-orange?style=for-the-badge" height="35">
   <img src="https://img.shields.io/badge/Computer%20Vision-Focused-green?style=for-the-badge" height="35">
+  <img src="https://img.shields.io/badge/Mechanical-Engineer-Maroon?style=for-the-badge" height="35">
 </p>
 
 <p align="center">
@@ -133,10 +134,11 @@ I focus on building **complete systems**, not just models:
 
 <p>
   <a href="mailto:mohammedayan262005@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge" height="45">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge" height="50">
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge" height="45">
+
+  <a href="https://www.linkedin.com/in/http://www.linkedin.com/in/mohammedayan26">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge" height="50">
   </a>
 </p>
 
