@@ -23,12 +23,13 @@ I am an aspiring AI/ML engineer with a strong interdisciplinary background in **
 ![]([https://github-profile-trophy.vercel.app/?username=M0hammedAyan&theme=radical&no-frame=false&no-bg=true&margin-w=4](https://quotefancy.com/programming-quotes))
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+![]<img width="530" height="530" alt="image" src="https://github.com/user-attachments/assets/3e3c11fe-1866-49ee-b0a6-5b7ec31dd958" />
+
 
 ### 🔝 Top Contributed Repo
 
-![](https://github.com/M0hammedAyan/AI-Classroom-Intelligent-System.git)
-![](https://github.com/M0hammedAyan/GMA.git)
-![](https://github.com/M0hammedAyan/Resume_Builder.git)
-![](https://github.com/M0hammedAyan/AI-INTEGRATED-VEHICLE-MONITORING-SYSTEM.git)
+https://github.com/M0hammedAyan/AI-Classroom-Intelligent-System.git)
+https://github.com/M0hammedAyan/GMA.git)
+https://github.com/M0hammedAyan/Resume_Builder.git)
+https://github.com/M0hammedAyan/AI-INTEGRATED-VEHICLE-MONITORING-SYSTEM.git)
 ---
