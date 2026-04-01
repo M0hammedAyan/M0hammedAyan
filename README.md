@@ -21,7 +21,9 @@ I am an aspiring AI/ML engineer with a strong interdisciplinary background in **
 ### 🔝 Top Contributed Repo
 
 https://github.com/M0hammedAyan/AI-Classroom-Intelligent-System.git)
-![Static Badge](https://img.shields.io/badge/GMA-maroon?style=plastic&logo=%23005386&logoColor=maroon&logoSize=auto&labelColor=White&color=maroon&cacheSeconds=https%3A%2F%2Fgithub.com%2FM0hammedAyan%2FGMA.git)
+<a href="https://github.com/M0hammedAyan/GMA">
+  <img src="https://img.shields.io/badge/GMA-maroon?style=for-the-badge&labelColor=white&color=maroon" height="60">
+</a>
 https://github.com/M0hammedAyan/Resume_Builder.git)
 https://github.com/M0hammedAyan/AI-INTEGRATED-VEHICLE-MONITORING-SYSTEM.git)
 ---
