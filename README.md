@@ -133,11 +133,11 @@ I focus on building **complete systems**, not just models:
 ## 📫 Connect
 
 <p>
-  <a href="mailto:mohammedayan262005@gmail.com">
+  <a href="mohammedayan262005@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge" height="50">
   </a>
 
-  <a href="https://www.linkedin.com/in/http://www.linkedin.com/in/mohammedayan26">
+  <a href="www.linkedin.com/in/mohammedayan26">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge" height="50">
   </a>
 </p>
