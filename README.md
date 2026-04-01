@@ -20,7 +20,7 @@ I am an aspiring AI/ML engineer with a strong interdisciplinary background in **
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=M0hammedAyan&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![]([https://github-profile-trophy.vercel.app/?username=M0hammedAyan&theme=radical&no-frame=false&no-bg=true&margin-w=4](https://quotefancy.com/programming-quotes))
+<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/1c6889f4-0f13-45c8-a7aa-78cebc2f1ca6" />
 
 ### ✍️ Random Dev Quote
 ![]<img width="530" height="530" alt="image" src="https://github.com/user-attachments/assets/3e3c11fe-1866-49ee-b0a6-5b7ec31dd958" />
