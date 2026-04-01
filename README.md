@@ -31,11 +31,11 @@ I focus on building **complete systems**, not just models:
 ## 🔬 Current Work @ IISc
 
 <p>
-  <img src="https://img.shields.io/badge/Multi--Camera-System-black?style=for-the-badge" height="45">
+  <img src="https://img.shields.io/badge/Multi--Camera-System-maroon?style=for-the-badge" height="45">
   <img src="https://img.shields.io/badge/Real--Time-Processing-red?style=for-the-badge" height="45">
   <img src="https://img.shields.io/badge/Secure-Transmission-blue?style=for-the-badge" height="45">
   <img src="https://img.shields.io/badge/PyQt-Interface-green?style=for-the-badge" height="45">
-  <img src="https://img.shields.io/badge/Hardware-Design-orange?style=for-the-badge" height="45">
+  <img src="https://img.shields.io/badge/Hardware-Design-purple?style=for-the-badge" height="45">
 </p>
 
 - 📷 Action Cameras + Intel RealSense  
@@ -63,7 +63,7 @@ I focus on building **complete systems**, not just models:
 ### 🚗 Driver State Monitoring *(Published Research)*
 <p>
   <img src="https://img.shields.io/badge/Computer-Vision-red?style=for-the-badge" height="40">
-  <img src="https://img.shields.io/badge/Multimodal-AI-black?style=for-the-badge" height="40">
+  <img src="https://img.shields.io/badge/Multimodal-AI-greenblue?style=for-the-badge" height="40">
 </p>
 
 - Fatigue + distraction detection  
@@ -113,21 +113,22 @@ I focus on building **complete systems**, not just models:
 
 ### 👁️ Vision & Robotics
 <p>
-  <img src="https://img.shields.io/badge/OpenCV-black?style=for-the-badge" height="40">
+  <img src="https://img.shields.io/badge/OpenCV-maroonred?style=for-the-badge" height="40">
   <img src="https://img.shields.io/badge/ROS-blue?style=for-the-badge" height="40">
   <img src="https://img.shields.io/badge/Gazebo-gray?style=for-the-badge" height="40">
 </p>
 
 ### 🔌 Systems
 <p>
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-red?style=for-the-badge" height="40">
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-redbrown?style=for-the-badge" height="40">
   <img src="https://img.shields.io/badge/IoT-green?style=for-the-badge" height="40">
 </p>
 
 ### 🧰 Tools
 <p>
-  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-black?style=for-the-badge" height="40">
+  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-gray?style=for-the-badge" height="40">
   <img src="https://img.shields.io/badge/PyQt-blue?style=for-the-badge" height="40">
+    <img src="https://img.shields.io/badge/SolidEdge-redgreen?style=for-the-badge" height="40">
   <img src="https://img.shields.io/badge/SolidWorks-red?style=for-the-badge" height="40">
 </p>
 
