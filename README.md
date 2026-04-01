@@ -63,7 +63,7 @@ I focus on building **complete systems**, not just models:
 ### 🚗 Driver State Monitoring *(Published Research)*
 <p>
   <img src="https://img.shields.io/badge/Computer-Vision-red?style=for-the-badge" height="40">
-  <img src="https://img.shields.io/badge/Multimodal-AI-greenblue?style=for-the-badge" height="40">
+  <img src="https://img.shields.io/badge/Multimodal-AI-blue?style=for-the-badge" height="40">
 </p>
 
 - Fatigue + distraction detection  
@@ -120,7 +120,7 @@ I focus on building **complete systems**, not just models:
 
 ### 🔌 Systems
 <p>
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-redbrown?style=for-the-badge" height="40">
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-red?style=for-the-badge" height="40">
   <img src="https://img.shields.io/badge/IoT-green?style=for-the-badge" height="40">
 </p>
 
