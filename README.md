@@ -89,7 +89,19 @@ I focus on building **complete systems**, not just models:
 - Mechanical + electrical system integration  
 
 ---
+## 🏆 Achievements
 
+<p>
+  <a href="https://github.com/users/M0hammedAyan/achievements/pull-shark">
+    <img src="https://img.shields.io/badge/Pull%20Shark-Achievement-blue?style=for-the-badge" height="50">
+  </a>
+
+  <a href="https://github.com/users/M0hammedAyan/achievements/yolo">
+    <img src="https://img.shields.io/badge/YOLO-Achievement-orange?style=for-the-badge" height="50">
+  </a>
+</p>
+
+---
 ## 🛠️ Tech Stack
 
 ### 💻 Core Skills
