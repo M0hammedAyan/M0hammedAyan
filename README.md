@@ -93,11 +93,11 @@ I focus on building **complete systems**, not just models:
 
 <p>
   <a href="https://github.com/users/M0hammedAyan/achievements/pull-shark">
-    <img src="https://img.shields.io/badge/Pull%20Shark-Achievement-blue?style=for-the-badge" height="50">
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" height="120">
   </a>
 
   <a href="https://github.com/users/M0hammedAyan/achievements/yolo">
-    <img src="https://img.shields.io/badge/YOLO-Achievement-orange?style=for-the-badge" height="50">
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" height="120">
   </a>
 </p>
 
