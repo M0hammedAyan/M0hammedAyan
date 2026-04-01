@@ -3,9 +3,9 @@ I am an aspiring AI/ML engineer with a strong interdisciplinary background in **
 
 
 ## 🌐 Socials:
-[!LinkedIn(https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]
+![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)
 (https://linkedin.com/in/Mohammed Ayan) 
-[!email(https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)]
+![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)
 (mohammedayan262005@gmail.com) 
 
 # 💻 Tech Stack:
