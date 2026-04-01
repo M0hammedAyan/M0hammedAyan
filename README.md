@@ -20,15 +20,15 @@ I am an aspiring AI/ML engineer with a strong interdisciplinary background in **
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=M0hammedAyan&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=M0hammedAyan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![]([https://github-profile-trophy.vercel.app/?username=M0hammedAyan&theme=radical&no-frame=false&no-bg=true&margin-w=4](https://quotefancy.com/programming-quotes))
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=M0hammedAyan&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+![](https://github.com/M0hammedAyan/AI-Classroom-Intelligent-System.git)
+![](https://github.com/M0hammedAyan/GMA.git)
+![](https://github.com/M0hammedAyan/Resume_Builder.git)
+![](https://github.com/M0hammedAyan/AI-INTEGRATED-VEHICLE-MONITORING-SYSTEM.git)
 ---
-[![](https://visitcount.itsvg.in/api?id=M0hammedAyan&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
