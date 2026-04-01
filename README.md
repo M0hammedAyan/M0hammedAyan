@@ -134,7 +134,7 @@ I focus on building **complete systems**, not just models:
 
 <p>
   <a href="mailto:mohammedayan262005@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge" height="50">
+    <img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge" height="50">
   </a>
 
   <a href="https://www.linkedin.com/in/mohammedayan26">
