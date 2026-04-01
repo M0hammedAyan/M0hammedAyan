@@ -20,10 +20,20 @@ I am an aspiring AI/ML engineer with a strong interdisciplinary background in **
 
 ### 🔝 Top Contributed Repo
 
-https://github.com/M0hammedAyan/AI-Classroom-Intelligent-System.git)
-<a href="https://github.com/M0hammedAyan/GMA">
-  <img src="https://img.shields.io/badge/GMA-maroon?style=for-the-badge&labelColor=white&color=maroon" height="60">
+<a href="https://github.com/M0hammedAyan/Resume_Builder">
+  <img src="https://img.shields.io/badge/Resume_Builder-blue?style=for-the-badge&labelColor=black" height="60">
 </a>
-https://github.com/M0hammedAyan/Resume_Builder.git)
-https://github.com/M0hammedAyan/AI-INTEGRATED-VEHICLE-MONITORING-SYSTEM.git)
+
+<a href="https://github.com/M0hammedAyan/AI-INTEGRATED-VEHICLE-MONITORING-SYSTEM">
+  <img src="https://img.shields.io/badge/Vehicle_Monitoring-red?style=for-the-badge&labelColor=black" height="60">
+</a>
+
+<a href="https://github.com/M0hammedAyan/AI-Classroom-Intelligent-System">
+  <img src="https://img.shields.io/badge/AI_Classroom-purple?style=for-the-badge&labelColor=black" height="60">
+</a>
+
+<a href="https://github.com/M0hammedAyan/GMA">
+  <img src="https://img.shields.io/badge/GMA-maroon?style=for-the-badge&labelColor=white" height="60">
+</a>
+
 ---
